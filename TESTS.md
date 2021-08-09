@@ -15,10 +15,10 @@ sudo -H pip3 install pytest
     pytest assignments/00HelloWorld
     ```
 
-- ## 01 Operaciones Básicas
+- ## 01 Hola Mundo
     ### Run command
     ```
-    pytest assignments/01OperacionesBasicas
+    pytest assignments/01HolaMundo
     ```
 
 - ## 02 Área Triángulo
